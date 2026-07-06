@@ -118,8 +118,3 @@ npm run dev
 
 ---
 
-##  Author
-
-**Mridul Shah**
-
-GitHub: https://github.com/MridulShahh
